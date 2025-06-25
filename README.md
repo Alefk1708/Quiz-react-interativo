@@ -14,8 +14,9 @@ Um quiz dinâmico, responsivo e com múltiplas categorias, desenvolvido em React
 
 ✅ Layout responsivo com estilo visual moderno usando TailwindCSS
 
-📂 Estrutura de Arquivos
+## 📂 Estrutura de Arquivos
 
+```plaintext
 📁 quiz-interativo/
 ├── public/
 ├── src/
